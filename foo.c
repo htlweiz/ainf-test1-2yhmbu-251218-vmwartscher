@@ -1,5 +1,5 @@
 #include <stdio.h>
-#import math 
+#include <math.h>
 
 int main(void)
 {
@@ -10,7 +10,7 @@ int main(void)
     daimeter_biscuts =float(input("4"));
     radius = diameter_biscuts / 2;
     area_per_biscuts = math.pi * radius ** 2;
-    total_area = diameter 
+    total_area = number_biscuts * area_per_biscuts
 
 
 
